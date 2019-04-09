@@ -7,3 +7,7 @@ git push --set-upstream origin branchetest
 git chekout master
 gitk
 
+———récupération—
+git fetch 
+git pull
+
